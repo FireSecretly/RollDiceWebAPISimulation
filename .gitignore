@@ -9,3 +9,7 @@ RollDiceSimulationTests/obj
 *.bin
 .vs
 .idea
+RollDiceWebAPISimulation/bin
+RollDiceWebAPISimulation/obj
+RollDiceWebAPITests/bin
+RollDiceWebAPITests/obj
